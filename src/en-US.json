@@ -361,5 +361,16 @@
   "welcome": "Welcome, {{email}}",
   "now-create-password": "Now, create a password.",
   "welcome-back": "Welcome back, {{email}}",
-  "here": "here"
+  "here": "here",
+  "custom-games": "Custom Games",
+  "add-custom-games": "Add Custom Games",
+  "game-library": "Game Library",
+  "custom-games-settings-tab": "Custom Games",
+  "locate-games-copy": "Can’t see your games in the library? Locate the .exe file of the missing games or import your custom shortcuts from Steam to add them to {{rainway}}.",
+  "manage-custom-games": "Manage Custom Games",
+  "add-manually": "Add Manually",
+  "locate-exe": "Locate .exe",
+  "import-custom-shortcuts": "Import Custom Shortcuts",
+  "from-steam": "From Steam",
+  "click-on-exe":  "click on an .exe file"
 }
